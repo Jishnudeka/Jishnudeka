@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jishnudeka
-- 👀 I’m interested in css 
+- 👀 I’m interested in build cool stuff 
 
 <!---
 Jishnudeka/Jishnudeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
