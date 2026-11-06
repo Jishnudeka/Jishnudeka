@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Jishnudeka
-- 👀 I’m interested in build cool stuff 
+<p align="center">
+  <img src="./agents.svg" alt="Agents building Jishnu Deka's profile" width="100%" />
+</p>
 
-<!---
-Jishnudeka/Jishnudeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">👋 Hi, I'm <b>@Jishnudeka</b> — I like to build cool stuff.</p>
